@@ -4,9 +4,9 @@ A classic Pac-Man game recreated using HTML, CSS, and JavaScript. Navigate the m
 
 ## 🎮 Demo
 
-Check out the live version here: [Play Pac-Man](https://your-demo-link.com)
+Check out the live version here: [Play Pac-Man]([https://your-demo-link.com](https://anirbansarkars.github.io/PACMAN---IWATANI/))
 
-![Pac-Man Screenshot](https://your-image-link.com)
+![Pac-Man Screenshot]([https://your-image-link.com](https://pygamezero-pacman.readthedocs.io/en/latest/_images/pacman-screenshot.png))
 
 ## 🚀 Features
 
