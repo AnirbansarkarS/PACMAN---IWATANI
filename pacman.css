@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(33, 2, 91);
+    text-align: center;
+    overflow: hidden;
+}
+
+#board {
+    background-color: black;
+}
+h3{
+    color: white;
+}
